@@ -1,8 +1,9 @@
 body {
     background-color: #a8357c;
 }
+
 img {
-width: 100%;
+    width: 100%;
 }
 
 
@@ -10,12 +11,13 @@ h1 {
 
     text-align: center;
 }
+    
 
 P {
     text-align: center;
     font-size: 20px;
 }
 
-p em {
+em strong {
     color: red;
 }
